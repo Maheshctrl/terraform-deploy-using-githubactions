@@ -1,2 +1,2 @@
 environment = "test"
-project     = "devops4solutionss"
+project     = "devops4solutionsss"
